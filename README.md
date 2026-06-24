@@ -1,5 +1,5 @@
 Click here for the project code: https://drive.google.com/drive/folders/1FExMxxGRMSdY0T5B92kVmcH0ktJS48Pk?usp=drive_link
-Also Implemented Real time skin tone detection Using computervision 
+## Also Implemented Real time skin tone detection Using computervision 
 # Real-Time Skin Tone Detection with Deep Learning & Django & Computer vision 
 
 <img width="1612" height="881" alt="Screenshot 2026-06-24 182300" src="https://github.com/user-attachments/assets/b3cabac7-1c10-4829-b160-bf81d4e87e75" />
